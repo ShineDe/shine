@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: ShineDe Blog
+SEOTitle: ShineDe的博客 | ShineDe Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: "关于前端与设计、黑客与画家 | ShineDe，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @ShineDe 的个人博客，与你一起发现更大的世界。"
+keyword: "ShineDe, ShineDe blog, Shine, 鬼栈,  ShineDe的博客, ShineDe Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 婷, Lynn"
+url: "https://shinede.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -122,5 +122,8 @@ friends: [
     },{
         title: "前端神盾局",
         href: "http://wepiaofei.github.io/blog/"
+    },{
+        title: "等待时候",
+        href: "http://jandaes.github.io/"
     }
 ]
