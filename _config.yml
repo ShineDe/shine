@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: ShineDe
 organization: Sogou, Inc.
 organization_url: https://www.sogou.com
 location: ZhuHai, China
@@ -80,11 +80,11 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
+github_username: shinede
 douban_username: freedim
-facebook_username: mzlogin
+facebook_username: shinede
 weibo_username: mzlogin
-zhihu_username: mzlogin
+zhihu_username: shinede
 twitter_username: mzlogin
 
 # ---------------- #
