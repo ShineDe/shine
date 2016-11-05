@@ -4,7 +4,9 @@
 baseurl:
 url: https://shinede.github.io/
 #date_format: "ordinal"
-title: 记录 -- 成长之路 -不畏惧 -不妥协
+title: 记录 --编程之路 -不畏惧 -不妥协
+#tip blog头部标题
+tip: 记录
 subtitle: "记录、代码上的那些事"
 description: "ShienDe的个人博客"
 keywords: 记录, Shine De, ShineDe, Ting
