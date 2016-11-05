@@ -1,31 +1,38 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 打码改变世界（马赛克）
+keywords: ShineDe, DeHai
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是ShineDe.   Welcome to my blog
 
-仰慕「优雅编码的艺术」。
+博客模板来自[@mzlogin](https://github.com/mzlogin)的分享
+
+代码源于思想，思想源于探索 
+
+探索源于热爱， 我们不是码农 
+
+我们是改变世界的科学家 
+
 
 ## 坚信
 
 * 熟能生巧
 * 努力改变人生
+* 积极、乐观、热爱生活
+* 没有不可能，只有不努力
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* 掘金：[@mzlogin](http://gold.xitu.io/user/570ddaeb2e958a005c63b2da)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
+* GitHub：[@ShineDe](https://github.com/shinede)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* 微博: [@空心菜没有心ing](http://weibo.com/3626494712)
+* 知乎: [@ShineDe](http://www.zhihu.com/people/shinede)
+* 豆瓣: [@ShineDe](http://www.douban.com/people/153431026)
 
 ## Skill Keywords
 
