@@ -1,6 +1,6 @@
-# 码志
+# 记录
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<http://xiejilu.com>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -16,9 +16,9 @@
 
 ## 效果预览
 
-### [在线预览 &rarr;](http://mazhuang.org)
+### [在线预览 &rarr;](http://xiejilu.com)
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](http://xiejilu.com/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
