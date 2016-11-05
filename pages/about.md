@@ -10,9 +10,9 @@ permalink: /about/
 
 我是ShineDe.   Welcome to my blog
 
-博客模板来自[@mzlogin](https://github.com/mzlogin)的分享
-代码源于思想，思想源于探索 
-探索源于热爱， 我们不是码农 
+博客模板来自[@mzlogin](https://github.com/mzlogin)的分享<br/>
+代码源于思想，思想源于探索 <br/>
+探索源于热爱， 我们不是码农 <br/>
 我们是改变世界的科学家 
 
 
