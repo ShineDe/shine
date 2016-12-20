@@ -8,14 +8,15 @@ keywords: Redis
 
 Redis是一个开源的使用ANSI C语言编写、遵守BSD协议、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API。
  
-##Redis 安装
+## Redis 安装
 
-##Window 下安装
+###  Window 下安装
 
-**下载地址：** https://github.com/dmajkic/redis/downloads。
+**下载地址：**   [https://github.com/dmajkic/redis/downloads](https://github.com/dmajkic/redis/downloads)
 
 下载到的Redis支持32bit和64bit。根据自己实际情况选择，将64bit的内容cp到自定义盘符安装目录取名redis。 如 C:\reids
 打开一个cmd窗口 使用cd命令切换目录到 C:\redis 运行 redis-server.exe redis.conf 。
+
 如果想方便的话，可以把redis的路径加到系统的环境变量里，这样就省得再输路径了，后面的那个redis.conf可以省略，如果省略，会启用默认的。输入之后，会显示如下界面：
 
 ![###Redis安装](http://7xsod9.com1.z0.glb.clouddn.com/redis-win.jpg)
@@ -30,9 +31,9 @@ Redis是一个开源的使用ANSI C语言编写、遵守BSD协议、支持网络
 
 ![###Redis安装](http://7xsod9.com1.z0.glb.clouddn.com/redis-win2.jpg)
 
-##Linux 下安装
+### Linux 下安装
 
-**下载地址：** http://www.redis.net.cn/download/，下载最新文档版本。
+**下载地址：** [http://www.redis.net.cn/download/](http://www.redis.net.cn/download/)，下载最新文档版本。
 
 本教程使用的最新文档版本为 2.8.17，下载并安装：
 
@@ -69,7 +70,7 @@ redis> get foo
 "bar"
 ```
 
-##Ubuntu 下安装
+### Ubuntu 下安装
 
 在 Ubuntu 系统安装 Redi 可以使用以下命令:
 
@@ -78,13 +79,13 @@ $sudo apt-get update
 $sudo apt-get install redis-server
 ```
 
-##启动 Redis
+### 启动 Redis
 
 ```python
 $redis-server
 ```
 
-##查看 redis 是否启动？
+### 查看 redis 是否启动？
 
 ```python
 $redis-cli
