@@ -6,8 +6,9 @@ description: Redis 配置 、Redis语法、Redis实例
 keywords: Redis 配置
 ---
 
-上一篇文章我们介绍了怎么安装Redis,那么在安装完成后我们应该怎么使用呢?这就需要我们来配置Redis 才能使用.
-<!--more-->   
+上一篇文章我们介绍了怎么安装Redis,那么在安装完成后我们应该怎么使用呢?这就需要我们来配置Redis 才能使用。
+
+more   
 
 ## Redis 配置
 
