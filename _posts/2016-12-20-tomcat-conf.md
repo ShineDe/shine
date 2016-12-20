@@ -11,9 +11,10 @@ keywords: Tomcat7
 在tomcat 的conf 目录下面　编辑：context.xml
 
 将里面的Context修改为以下即可：
-``` java 
+```java 
  <Contextsession CookiePath="" sessionCookieDomain=".×××.com"/>
 ```
+
 问题得到解决
 >注: .xxx.com   xxx 是你的域名。
 
