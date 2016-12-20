@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Redis 配置 
+title: Redis 配置
 categories: Redis
 description: Redis 配置 、Redis语法、Redis实例
 keywords: Redis 配置
 ---
 
-上一篇文章我们介绍了怎么安装Redis，那么在安装完成后我们应该怎么使用呢？这就需要我们来配置Redis 才能使用。
-
+上一篇文章我们介绍了怎么安装Redis,那么在安装完成后我们应该怎么使用呢?这就需要我们来配置Redis 才能使用.
+   
 
 ## Redis 配置
 
@@ -284,7 +284,7 @@ masterauth <master-password>
 15、设置Redis连接密码，如果配置了连接密码，客户端在连接Redis时需要通过AUTH <password>命令提供密码，默认关闭
 
 ```python  
-   requirepass foobared
+requirepass foobared
 ```
 
 16、设置同一时间最大客户端连接数，默认无限制，Redis可以同时打开的客户端连接数为Redis进程可以打开的最大文件描述符数，如果设置 maxclients 0，表示不作限制。当客户端连接数到达限制时，Redis会关闭新的连接并向客户端返回max number of clients reached错误信息
