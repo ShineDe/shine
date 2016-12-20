@@ -180,7 +180,7 @@ redis 127.0.0.1:6379> CONFIG GET loglevel
 
 ### 参数说明
 
-**redis.conf 配置项说明如下:  **
+**redis.conf 配置项说明如下:**
 
 1、Redis默认不是以守护进程的方式运行，可以通过该配置项修改，使用yes启用守护进程
 
