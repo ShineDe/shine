@@ -7,7 +7,7 @@ keywords: Android
 ---
 
 按照最新 ADT 的默认设置（如下图所示）创建一个最简单的 HelloWorld 程序，会发现最后生成的 apk 文件大小就已经达到了惊人的 903KB。如果只是想做一个功能非常简单的 APP，体积也这么大的话那太让人沮丧了，那我们就来探索一下如何让这个 HelloWorld.apk 体积最小。
-
+<!--more-->
 ![ADT new project default settings](/images/posts/android/new-project.png)
 
 *（注：本文所述方法是以牺牲新的 API 为代价的。）*

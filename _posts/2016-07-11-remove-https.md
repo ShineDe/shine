@@ -7,7 +7,7 @@ keywords: Kloudsec, GitHub Pages
 ---
 
 前天收到来自 Kloudsec 的邮件，说 Kloudsec 将于 2016/08/01 停止服务。Bad news，请容许我做一个悲伤的表情。
-
+<!--more-->
 ## 邮件原文
 
 > Hi all,

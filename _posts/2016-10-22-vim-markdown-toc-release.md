@@ -11,7 +11,7 @@ keywords: Vim, Markdown, Table of Contents
 它的主要功能是为 Markdown 文件生成 toc（Table of Contents）、更新已经存在的 toc 和在保存时自动更新 toc。
 
 说它是当前使用 Vim 编辑 Markdown 文件时维护 Table of Contents 的最佳解决方案应该不为过。
-
+<!--more-->
 ## 下载地址
 
 * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)

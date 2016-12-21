@@ -7,7 +7,7 @@ keywords: Lisp
 ---
 
 本文是个人对[第二章：欢迎来到 Lisp——ANSI Common Lisp 中文版](http://acl.readthedocs.org/en/latest/zhCN/ch2-cn.html) 一文中习题的解答。
-
+<!--more-->
 **1. 描述下列表达式求值之后的结果：**
 
 (a) (+ (- 5 1) (+ 3 7))

@@ -9,7 +9,7 @@ keywords: Mac OS X, Zeal
 我承认，初次遇到 Dash 的时候，我是惊艳的。
 
 怎么会有如此方便的文档查看工具？顿时觉得被各种加载奇慢的 API 文档坑苦了好多年！于是很开心地下载了我常用的 API 文档，并且找到了它在 Windows 下的替代品 Zeal 推荐给朋友们，感觉世界从此美好了许多。
-
+<!--more-->
 可惜好景不长。
 
 ![](/images/posts/mac/dash-wait.png)

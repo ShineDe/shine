@@ -9,7 +9,7 @@ keywords: Android, Activity, Foreground
 本文记录的是一种判断当前激活的 Activity 是否属于本进程的方法。
 
 **约定：文中表述说一个 Activity 处于激活状态是指它是屏幕上当前展示的 Activity，且没有被 Dialog 覆盖。**
-
+<!--more-->
 ## 原理
 
 Activity 的生命周期由 Android 系统维护，所以使用一个 Activity 的生命周期方法 `onResume` 与 `onPause` 来记录它的激活状态是可靠的。

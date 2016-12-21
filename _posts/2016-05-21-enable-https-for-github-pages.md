@@ -9,7 +9,7 @@ keywords: GitHub Pages, SSL, Let's Encrypt
 **Update 2016/07/11: 收到 Kloudsec 的邮件，说将在 2016/08/01 停止服务，所以如下方法在那之后会无法使用，寻找 GitHub Pages + Custom Domain + HTTPS 的方法的童鞋请不要再尝试 Kloudsec 了，去找一找别的方法吧。**
 
 虽然现在各种网站都在 HTTPS 化，甚至有的个人网站在添加链接的说明里明确声明只与启用 HTTPS 的网站交换链接，但一直以来我启用 HTTPS 的需求并不强烈，又加上有懒癌在身，实在是没有动力去折腾，直到最近发生了几件事情。
-
+<!--more-->
 ## 缘起
 
 1. 最近一段时间也不知道是 GitHub Pages 做了调整还是 Google 的收录策略有了变化，Google 收录我的博客页面都是同时收录了 HTTP 和 HTTPS 两种版本，而很遗憾这个博客并没有配置有效的 SSL 证书，所以点开的是一个 HTTPS 的链接就会被浏览器提示连接不可信，有安全风险云云，虽然访问量不大，但这样体验太差，也是蛮闹心的。

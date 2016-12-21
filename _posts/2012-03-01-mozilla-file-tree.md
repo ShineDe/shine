@@ -18,7 +18,7 @@ keywords: Mozilla
 源码目录概览
 
 这个文档是一份为开发人员提供的 Mozilla 源码目录结构树的指南。它提供源码的鸟瞰以方便开发人员理解 Mozilla 里有什么，到哪里去找想要的东西。它对一个刚刚学习 Mozilla 源码的开发人员来讲是一份不错的文档。
-
+<!--more-->
 这份文档包含 SeaMonkey，Firefox 和 Toolkit 的相关材料。
 
 这是一份根据 Mozilla 的源码树按月更新的文档。

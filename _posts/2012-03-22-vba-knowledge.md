@@ -14,7 +14,7 @@ Set MyWorkBook = wd.Workbooks.Open(".XXXX.xls")
 ```
 
 用完后 `wd.Quit`
-
+<!--more-->
 ### 设置边框与自动筛选
 
 ```vbnet

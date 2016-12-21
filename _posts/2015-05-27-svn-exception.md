@@ -11,6 +11,7 @@ keywords: TortoiseSVN, github
 使用 TortoiseSVN 从 GitHub 仓库 Update 时，弹出错误提示对话框：
 
 ```
+<!--more-->
 ---------------------------
 Subversion Exception!
 ---------------------------

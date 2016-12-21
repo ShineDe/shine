@@ -7,7 +7,7 @@ keywords: am start, user, adb, INTERACT_ACROSS_USERS_FULL
 ---
 
 本文的讨论围绕一个 `java.lang.SecurityException` 展开，异常的关键词是权限 `android.permission.INTERACT_ACROSS_USERS_FULL`。
-
+<!--more-->
 ```java
 java.lang.SecurityException: Permission Denial: startActivity asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
     at android.os.Parcel.readException(Parcel.java:1425)

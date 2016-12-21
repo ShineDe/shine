@@ -11,7 +11,7 @@ keywords: API
 **风险：**
 
 进程会继承其父进程的环境变量，在展开如 %APPDATA% 等目录时，有可能父进程对此环境变量进行过修改，那么可能你获取的就不是你想要的当前 SESSION 的 %APPDATA% 了。
-
+<!--more-->
 **建议：**
 
 使用 SHGetFolderPath 系列函数来做这件事。

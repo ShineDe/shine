@@ -9,7 +9,7 @@ keywords: vim, markdown, toc
 因为饱受 GFM 和 Redcarpet 两种 Markdown 引擎生成 TOC 链接的差异的折磨，而我又不得不同时使用它们——博客基于 Jekyll 使用 Redcarpet（*Update 2016/09/16: GitHub Pages 现在已经改为只支持 kramdown*），而其它放在 GitHub 仓库里的文档使用 GFM，我决定为我常用的 Markdown 编辑器 Vim 做一款同时支持 GFM 和 Redcarpet 两种 TOC 链接风格的 Table of Contents 自动生成插件。
 
 这算是我真正意义上完全独立开发的第一款实用 Vim 插件，当然开发过程中也参考了别人的做法。
-
+<!--more-->
 ## 下载地址
 
 * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)

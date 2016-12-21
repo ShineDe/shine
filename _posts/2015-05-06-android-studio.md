@@ -7,7 +7,7 @@ keywords: Android, Android Studio
 ---
 
 ## 打开 Android Studio 卡在「Fetching Android SDK component information」界面。
-
+<!--more-->
    如图：
 
    ![](/images/posts/android/android-studio-check-sdk.png)

@@ -9,7 +9,7 @@ keywords: Android, Cache, Cleaner, System Cache
 本文记录的是我对 Android 的「系统缓存」及其扫描和清理方法的探索与理解。
 
 本文讲述内容的完整代码实例见 <https://github.com/mzlogin/CleanExpert>。
-
+<!--more-->
 ## 系统缓存的定义
 
 如下是我捏造的非官方定义：

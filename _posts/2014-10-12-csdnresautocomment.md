@@ -9,7 +9,7 @@ keywords: Python, CSDN
 用 Python 实现自动批量打分评论指定 CSDN 账号内所有下载过待评论的资源。
 
 GitHub 仓库地址：<https://github.com/mzlogin/csdncommenter>
-
+<!--more-->
 可通过 pip 安装运行：
 
 ```

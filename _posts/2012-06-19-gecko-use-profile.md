@@ -15,7 +15,7 @@ Mozilla 自带的 Profile 支持实际上是非常给力的，看看 %appdata%/M
 3. 证书相关、组件列表、cookie、插件列表等等都可以在这里找到
 
 等等等等。
-
+<!--more-->
 合理利用这些文件和信息我们可以在自己内嵌 Gecko 的程序里方便地做一些事情而不用自己去操作和维护一些配置项和数据。
 
 在自己编译完 xulrunner-1.9.2 后尚能找到编译好的 profdirserviceprovidersa_s.lib 来用于 WinEmbed 工程的移植，最近编译了 xulrunner-10.0.2 后发现就没这么幸运了，没有生成这个东东。在头疼了一番后决定自己做一个工程来生成它。根据 xulrunner 源码 mozilla-release/profile/dirserviceprovider 下的几个 makefile 来做就可以了。

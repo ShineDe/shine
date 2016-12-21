@@ -6,6 +6,8 @@ description: Win32 编程中与界面相关的一些小的知识点总结。
 keywords: Windows, UI
 ---
 
+禁止 Win7 下窗口被拖到顶部时自动飘到左上角去掉窗口的 WS\_THICKFRAME 风格.
+<!--more-->
 1. 禁止 Win7 下窗口被拖到顶部时自动飘到左上角
 
    去掉窗口的 WS\_THICKFRAME 风格

@@ -7,7 +7,7 @@ keywords: Linux, Ubuntu
 ---
 
 使用 Ubuntu 过程中遇到的问题及解决方案。
-
+<!--more-->
 ## 使用 git pull 遇到问题
 
 提示

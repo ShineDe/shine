@@ -16,7 +16,7 @@ keywords: Windows, Skill
 <img src="/images/posts/windowsskill/rclick.png" alt="Windows Skills" />
 
 图上的这条右键命令一般在 Win7 下是需要 Shift + 右键在弹出菜单里才能看到的，怎么省掉这个 Shift，直接就能出来呢？
-
+<!--more-->
 先说方法：
 
 将如下代码保存为 .reg 文件然后执行即可。

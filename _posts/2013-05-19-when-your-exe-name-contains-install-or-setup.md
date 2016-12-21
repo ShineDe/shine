@@ -9,7 +9,7 @@ keywords: EXE, Windows
 ### 问题描述
 
 在 Windows Vista+ 系统下，若 EXE 文件名中包含有「install」、「update」或「setup」等字样，可能出现如下问题：
-
+<!--more-->
 1. 每次软件运行完退出后会弹出「程序兼容性助手」（Program Compatibility Assistant, 简称 PCA），提示软件未正确安装。
 
    ![](/images/posts/windows/pca.png)

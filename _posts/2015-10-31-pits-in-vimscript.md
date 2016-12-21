@@ -7,7 +7,7 @@ keywords: Vim, Vimscript
 ---
 
 本文内容为学习 [「笨方法学 Vimscript」](http://learnvimscriptthehardway.onefloweroneworld.com) 过程中，觉得 Vimscript 语法中与所掌握的其它语言的定义有明显区别，需要特别记忆的内容。
-
+<!--more-->
 1. 使用 `==` 进行字符串比较是否忽略大小写与用户的设置相关。
 
    比如

@@ -18,7 +18,7 @@ keywords: Dll, Windows
 6. PATH 环境变量中所列出的目录。
 
 如果调用 LoadLibrary 时传入的是绝对路径，那么加载程序将只尝试从该绝对路径搜索 DLL。
-
+<!--more-->
 ### 附注
 
 以上结论在「Windows 核心编程」中列出，书中指出：

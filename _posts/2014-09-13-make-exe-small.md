@@ -7,7 +7,7 @@ keywords: Windows
 ---
 
 为了节省大量用户下载占用的带宽，又不便使用 P2P 技术，需要做一个尽量小的独立 EXE，这里是对如何让一个简单的 EXE 体积尽量小的部分方法与每一步的实际效果。
-
+<!--more-->
 ### 初始 DEMO
 
 用 VC++ 生成一个最简单的 Win32 Console Application，调用少量简单的 CRT 函数，因为要独立 EXE，所以使用 /MT，示例代码部分如下，然后 Release 编译看看体积。

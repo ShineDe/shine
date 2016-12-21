@@ -10,7 +10,7 @@ keywords: 宏，C++
 
 ### "
 在学习`#`和`##`之前，先来看一个关于`"`的例子：
-
+<!--more-->
 ```cpp
 #include <stdio.h>
 #include <string.h>

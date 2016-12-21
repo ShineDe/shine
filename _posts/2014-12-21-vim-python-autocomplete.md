@@ -11,7 +11,7 @@ keywords: gVim, Python
 环境：Win7 x64
 
 从 gVim 7.4 的安装目录 /path/to/Vim/Vim74/autoload 下的 pythoncomplete.vim 看出，Vim 在这个版本已经默认内置了对 Python 的自动补全的支持。然而我在自己的笔记本上用得很好的配置，同样的、_vimrc 和插件平移到工作机上以后就出问题了，` <C-x><C-o> `的时候 gVim 底部提示：
-
+<!--more-->
 ```
 Error: Required vim compiled with +python
 E117: Unknown function: pythoncomplete#Complete

@@ -9,7 +9,7 @@ keywords: Fiddler
 ### 需求
 
 对 Fiddler 抓取的某个特定 SESSION 能在必要时手动操作发往另一个服务器。
-
+<!--more-->
 ### 设想
 
 在 SESSION 上点击右键弹出的菜单中添加一项，让它对应的响应事件来完成此操作。而联想到 Fiddler 的 Composer 功能能够将某条 SESSION 按自己的需要修改后重新发出，那利用 Composer 来做应该是比较容易实现且便捷的方式。

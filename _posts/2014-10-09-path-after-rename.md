@@ -9,7 +9,7 @@ keywords: Windows
 ### 需求
 
 一个 EXE 在运行过程中（被）改名了，需要准确地获取它的文件名。
-
+<!--more-->
 ### 尝试
 
 原本以为这是一个非常简单的 CASE，直接用 GetModuleFileName 不就行了吗？结果还真不如我所想。无论程序运行过程中被改名成什么样子，GetModuleFileName 返回的都是 EXE 开始运行时的名字。然后又尝试了 GetProcessImageFileName，也是如此，直到最后找到了 QueryFullProcessImageName。

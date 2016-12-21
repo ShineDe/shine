@@ -7,7 +7,7 @@ keywords: markdown, GFM, Redcarpet
 ---
 
 GFM 即 [GitHub Flavored Markdown][1]，是 GitHub 用在 Respository、Issues、Comments 和 Pull requests 里的一种 Markdown 引擎，它与标准 Markdown 有所区别，增加了一些 GitHub 自己扩展的功能。
-
+<!--more-->
 [Redcarpet][2] 是另一种 Markdown 引擎，我的基于 GitHub Pages 的[博客][3]采用它来解析 md 文件，\_config.yml 文件里的配置如下：
 
 ```

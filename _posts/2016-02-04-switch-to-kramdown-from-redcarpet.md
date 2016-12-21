@@ -9,7 +9,7 @@ keywords: GitHub Pages, markdown, Redcarpet, kramdown
 GitHub 前不久发布了 New Features 公告，[GitHub Pages now faster and simpler with Jekyll 3.0][1]，宣布从 2016 年 5 月 1 日起，GitHub Pages 将只支持 kramdown 作为唯一的 Markdown 引擎。
 
 这其实也算得一件好事，之前支持 Rediscount、Redcarpet 和 kramdown 等多种引擎，而它们相互之间和与标准 Markdown 之间又有一些细微却也无法忽视的差异，这让需要在多个平台使用 Markdown 的我头疼不已，早就希望 GitHub Pages 能与 GitHub 的 Issues 和 comments 等地方统一语法，本次更新虽然做不到这一点，但也算是迈出了不小的一步。
-
+<!--more-->
 我在此前是使用 Redcarpet，配置如下：
 
 ```yaml

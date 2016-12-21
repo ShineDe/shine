@@ -11,7 +11,7 @@ keywords: Java, Compare
 ```java
 List<long> listData = new ArrayList<long>();
 ```
-
+<!--more-->
 这时 Android Studio 不高兴了，在 long 下面打上红色波浪线，然后提示小菜鸟：
 
 ```

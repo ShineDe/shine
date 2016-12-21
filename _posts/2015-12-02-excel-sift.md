@@ -11,7 +11,7 @@ keywords: Excel, Numbers
 ### 问题
 
 对 Excel 中一列已经排序的数据，如何去重，且保留最终留下的值的行号？
-
+<!--more-->
 例如：
 
 ```

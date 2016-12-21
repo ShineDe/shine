@@ -7,7 +7,7 @@ keywords: kramdown, Vim, indent
 ---
 
 kramdown 的列表嵌套内容的缩进规则很「奇葩」，不是使用自然的 Tab 缩进。
-
+<!--more-->
 ## 问题
 
 kramdown 的作者对列表嵌套内容的缩进规则的 [描述][0] 是：

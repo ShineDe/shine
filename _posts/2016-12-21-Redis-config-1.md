@@ -7,7 +7,7 @@ keywords: Redis
 ---
 
 上一篇文章我们介绍了怎么安装Redis，那么在安装完成后我们应该怎么使用呢？这就需要我们来配置Redis 才能使用。
-
+<!--more-->
 ## Redis 配置
 
 Redis 的配置文件位于 Redis 安装目录下，文件名为 redis.conf。

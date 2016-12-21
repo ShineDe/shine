@@ -23,7 +23,7 @@ keywords: Excel
    `=FIND("ha", B2)`
 
 ### 替换
-
+<!--more-->
 1. REPLACE 函数
 
    **作用：**

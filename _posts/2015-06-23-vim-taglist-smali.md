@@ -9,7 +9,7 @@ keywords: Vim, Smali, Taglist, Ctags, Tagbar
 Smali 相当于 Dalvik 虚拟机的汇编语言，语法可以参考 [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)。
 
 本文介绍的是如何使用 Vim + Ctags + Taglist（或 Tagbar） 来实现如下需求：
-
+<!--more-->
 **目录**
 
 * TOC

@@ -9,7 +9,7 @@ keywords: Fiddler, Filter, Device
 ### 需求
 
 在开发/测试过程中有多台设备（PC/手机/模拟器）通过 Fiddler 代理上网时，如何方便地从满屏纷飞的 Session 中筛选出自己关心的那台设备的请求？
-
+<!--more-->
 ### 设想
 
 通过 FiddlerScript 扩展，在 Session 的右键弹出菜单中添加一项，作为「查看所有设备请求」和「查看单个设备请求」的切换开关。
