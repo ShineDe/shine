@@ -44,6 +44,8 @@ redis 127.0.0.1:6379> DEL w3ckey
 (integer) 1
 ```
 
+----------
+
 # Redis Dump 命令 - 序列化给定 key ，并返回被序列化的值。
 
 **Redis DUMP 命令用于序列化给定 key ，并返回被序列化的值。**
@@ -85,6 +87,8 @@ redis> DUMP not-exists-key
 (nil)
 ````
 
+----------
+
 # Redis EXISTS 命令 - 检查给定 key 是否存在。
 
 **Redis EXISTS 命令用于检查给定 key 是否存在。**
@@ -123,6 +127,8 @@ redis 127.0.0.1:6379> EXISTS w3cschoolcc-new-key
 (integer) 1
 redis 127.0.0.1:6379>
 ```
+
+----------
 
 # Redis Expire 命令 - seconds 为给定 key 设置过期时间。
 
@@ -164,6 +170,8 @@ redis 127.0.0.1:6379> EXPIRE w3ckey 60
 
 以上实例中我们为键 w3ckey 设置了过期时间为 1 分钟，1分钟后该键会自动删除。
 
+----------
+
 # Redis Expireat 命令 - EXPIREAT 的作用和 EXPIRE 类似，都用于为 key 设置过期时间。 不同在于 EXPIREAT 命令接受的时间参数是 UNIX 时间戳(unix timestamp)。
 
 **Redis Expireat 命令用于以 UNIX 时间戳(unix timestamp)格式设置 key 的过期时间。key 过期后将不再可用。**
@@ -204,6 +212,8 @@ EXISTS w3ckey
 (integer) 0
 ```
 
+----------
+
 # Redis PEXPIREAT 命令 - 设置 key 的过期时间亿以毫秒计。
 
 Redis PEXPIREAT 命令用于设置 key 的过期时间，已毫秒技。key 过期后将不再可用。
@@ -241,6 +251,8 @@ OK
 redis 127.0.0.1:6379> PEXPIREAT tutorialspoint 1555555555005
 (integer) 1
 ```
+
+----------
 
 # Redis Keys 命令 - 查找所有符合给定模式( pattern)的 key 。
 
@@ -294,6 +306,8 @@ redis 127.0.0.1:6379> KEYS *
 2) "w3c1"
 3) "w3c2"
 ```
+
+----------
 
 # Redis Move 命令 - 将当前数据库的 key 移动到给定的数据库 db 当中。
 
@@ -384,6 +398,8 @@ redis:1> GET favorite_fruit                 # 数据库 1 的 favorite_fruit 也
 "apple"
 ```
 
+----------
+
 # Redis PERSIST 命令 - 移除 key 的过期时间，key 将持久保持。
 
 Redis PERSIST 命令用于移除给定 key 的过期时间，使得 key 永不过期。
@@ -424,6 +440,8 @@ redis> PERSIST mykey    # 移除 key 的生存时间
 redis> TTL mykey
 (integer) -1
 ```
+
+----------
 
 # Redis Pttl 命令 - 以毫秒为单位返回 key 的剩余的过期时间。
 
@@ -479,6 +497,8 @@ redis> PTTL key
 (integer) 6179
 ```
 
+----------
+
 # Redis TTL 命令 - 以秒为单位，返回给定 key 的剩余生存时间(TTL, time to live)。
 
 Redis TTL 命令以秒为单位返回 key 的剩余过期时间。
@@ -533,6 +553,8 @@ redis> TTL key
 (integer) 10084
 ```
 
+----------
+
 # Redis RANDOMKEY 命令 - 从当前数据库中随机返回一个 key 。
 
 Redis RANDOMKEY 命令从当前数据库中随机返回一个 key 。
@@ -584,6 +606,8 @@ OK
 redis> RANDOMKEY
 (nil)
 ```
+
+----------
 
 # Redis Rename 命令 - 修改 key 的名称
 
@@ -650,6 +674,8 @@ redis:1> GET personal_computer      # 原来的值 dell 被覆盖了
 "lenovo"
 ```
 
+----------
+
 # Redis Renamenx 命令 - 仅当 newkey 不存在时，将 key 改名为 newkey 。
 
 Redis Renamenx 命令用于在新的 key 不存在时修改 key 的名称 。
@@ -703,6 +729,8 @@ redis> get animal
 redis> get favorite_animal
 "butterfly"
 ```
+
+----------
 
 # Redis Type 命令 - 返回 key 所储存的值的类型。
 
