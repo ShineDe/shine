@@ -150,6 +150,7 @@ Redis CONFIG 命令格式如下：
 115) "bind"
 116) ""
 ```
+
 ## 编辑配置
 
 你可以通过修改 redis.conf 文件或使用 CONFIG set 命令来修改配置。
