@@ -17,7 +17,7 @@ redis DEL 命令基本语法如下：
 ```java
 redis 127.0.0.1:6379> DEL KEY_NAME
 ```
-
+<!--more-->
 **可用版本**
 
 ```java
