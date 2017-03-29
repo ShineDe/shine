@@ -66,7 +66,7 @@ FinalSpeed是高速双边加速软件,可加速所有基于tcp协议的网络服
 
 >**chmod +x install_fs.sh**
 
->**./install_fs.sh 2>&1 | tee install.log**
+>**./install_fs.sh 2>&1 |\|| tee install.log**
 
 ![](http://7xsod9.com1.z0.glb.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170329111932.png)
 
