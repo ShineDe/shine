@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  搬瓦工 FinalSpeed + SS 实现VPN加速 
-categories: VPN加速
-description: FinalSpeed SS 实现VPN加速
-keywords: VPN加速
+title:  搬瓦工 FinalSpeed + SS 实现科学上网
+categories: 科学上网
+description: FinalSpeed SS 实现科学上网
+keywords: 科学上网
 ---
 
 FinalSpeed是高速双边加速软件,可加速所有基于tcp协议的网络服务,在高丢包和高延迟环境下,仍可达到90%的物理带宽利用率,即使高峰时段也能轻松跑满带宽。
