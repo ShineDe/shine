@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  第一次利用Git命令创建仓库,并提交代码
-categories: 提交git
+categories: git
 description: 初次提交git，第一次提交git
 keywords: 第一次提交git
 ---
